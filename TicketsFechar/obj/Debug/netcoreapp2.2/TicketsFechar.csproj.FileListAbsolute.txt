@@ -1,0 +1,11 @@
+C:\Users\Treinamento 2\Desktop\Bot\TicketsFechar\bin\Debug\netcoreapp2.2\TicketsFechar.deps.json
+C:\Users\Treinamento 2\Desktop\Bot\TicketsFechar\bin\Debug\netcoreapp2.2\TicketsFechar.runtimeconfig.json
+C:\Users\Treinamento 2\Desktop\Bot\TicketsFechar\bin\Debug\netcoreapp2.2\TicketsFechar.runtimeconfig.dev.json
+C:\Users\Treinamento 2\Desktop\Bot\TicketsFechar\bin\Debug\netcoreapp2.2\TicketsFechar.dll
+C:\Users\Treinamento 2\Desktop\Bot\TicketsFechar\obj\Debug\netcoreapp2.2\TicketsFechar.csprojAssemblyReference.cache
+C:\Users\Treinamento 2\Desktop\Bot\TicketsFechar\obj\Debug\netcoreapp2.2\TicketsFechar.csproj.CoreCompileInputs.cache
+C:\Users\Treinamento 2\Desktop\Bot\TicketsFechar\obj\Debug\netcoreapp2.2\TicketsFechar.AssemblyInfoInputs.cache
+C:\Users\Treinamento 2\Desktop\Bot\TicketsFechar\obj\Debug\netcoreapp2.2\TicketsFechar.AssemblyInfo.cs
+C:\Users\Treinamento 2\Desktop\Bot\TicketsFechar\bin\Debug\netcoreapp2.2\TicketsFechar.pdb
+C:\Users\Treinamento 2\Desktop\Bot\TicketsFechar\obj\Debug\netcoreapp2.2\TicketsFechar.dll
+C:\Users\Treinamento 2\Desktop\Bot\TicketsFechar\obj\Debug\netcoreapp2.2\TicketsFechar.pdb
